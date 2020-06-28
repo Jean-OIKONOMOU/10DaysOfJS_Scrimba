@@ -7,6 +7,7 @@ In view of the upcoming "The Frontend Developer Career Path" class that will be 
 This was about creating a function that takes in two parameters and then returns their sum. After that, we must create a function that can take in any number of parameters and then return their sum.
 
 ## Challenge 2 : All the Longest Strings
+Create a way to make an array of the longest strings from another given array of strings.
 
 ## Challenge 3 : Alternating Sums
 
