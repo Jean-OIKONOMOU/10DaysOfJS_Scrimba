@@ -1,20 +1,21 @@
 const strings = ["aba", "a", "aa", "ad", "aa", "vcd", "aba", "a"];
 
-function checkArrayEmpty(stringArray) {
-    if (typeof stringArray != "undefined" && stringArray != null && stringArray.length != null
-    && stringArray.length > 0) 
+function checkArrayNotEmpty(array) {
+    if (typeof array != "undefined" && array != null && array.length != null
+    && array.length > 0) 
         return true
     else
         return false
 }
 
 function findLongestString(stringArray) {
-    let longest = stringArray[0];;
+    let longest = stringArray[0];
 
-    for (let index = 0; index < stringArray.length; index++) {
-        if (longest < stringArray[index].length)
-        longest = stringArray[index]
-    }
+    if (checkArrayEmpty(stringArray))
+        for (let index = 0; index < stringArray.length; index++) {
+            if (longest < stringArray[index].length)
+            longest = stringArray[index]
+        }
     return longest.length;
 }
 

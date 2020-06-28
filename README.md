@@ -10,5 +10,7 @@ This was about creating a function that takes in two parameters and then returns
 Create a way to make an array of the longest strings from another given array of strings.
 
 ## Challenge 3 : Alternating Sums
+Given an array of integers, create a way to show the sums of the numbers that are in the odd positions of that given array, and the sum of the numbers that are in the even positions of that given array.
 
 ## Challenge 4 : Array Replace
+
