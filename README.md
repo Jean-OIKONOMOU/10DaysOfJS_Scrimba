@@ -14,3 +14,6 @@ Given an array of integers, create a way to show the sums of the numbers that ar
 
 ## Challenge 4 : Array Replace
 Given an array of integers, a specific integer to find in that array, and another random integer, replace the value of the integer you found in the array with the value of the random integer you've been given.
+
+## Challenge 5 : Case Insensitive Palindrome
+Using a combination of reverse(), slipt(), and join() declare if a string composed of less than 13 letters is a palindrome (more fun to do without reverse() I think).
