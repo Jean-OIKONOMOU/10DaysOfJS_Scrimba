@@ -20,3 +20,6 @@ Using a combination of reverse(), slipt(), and join() declare if a string compos
 
 ## Challenge 6 : Enclose in Brackets
 Given a string, enclose it in brackets.
+
+## Challenge 7 : Factorial
+Given a whole integer, return its factorial.
