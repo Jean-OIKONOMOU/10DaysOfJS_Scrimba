@@ -17,3 +17,6 @@ Given an array of integers, a specific integer to find in that array, and anothe
 
 ## Challenge 5 : Case Insensitive Palindrome
 Using a combination of reverse(), slipt(), and join() declare if a string composed of less than 13 letters is a palindrome (more fun to do without reverse() I think).
+
+## Challenge 6 : Enclose in Brackets
+Given a string, enclose it in brackets.
