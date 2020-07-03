@@ -23,3 +23,6 @@ Given a string, enclose it in brackets.
 
 ## Challenge 7 : Factorial
 Given a whole integer, return its factorial.
+
+## Challenge 8 : First Digit
+Given a string, return the first digit encoutered while parsing the string using split() and includes()
