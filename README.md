@@ -26,3 +26,6 @@ Given a whole integer, return its factorial.
 
 ## Challenge 8 : First Digit
 Given a string, return the first digit encoutered while parsing the string using split() and includes()
+
+## Challenge 9 : Largest Number
+Given a digit, return the largest number of size equal to the digit entered as argument. For example, if the digit equals 2 then the returned largest number will be equal to 99. If the digit equals 5 then the returned largest number will be equal to 99999. Use 
