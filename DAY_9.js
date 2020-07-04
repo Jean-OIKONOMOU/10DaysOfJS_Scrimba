@@ -1,7 +1,7 @@
 // arrange
 const size1 = 1
 const size2 = 2
-const size3 = 3
+const size6 = 6
 const n = null
 const size0 = 0
 const negative = -55
@@ -26,7 +26,7 @@ function largestNumber(num) {
 console.log(isPositiveInt(n));
 console.log(largestNumber(size1));
 console.log(largestNumber(size2));
-console.log(largestNumber(size3));
+console.log(largestNumber(size6));
 console.log(largestNumber(n));
 console.log(largestNumber(size0));
 console.log(largestNumber(negative));

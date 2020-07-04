@@ -28,4 +28,12 @@ Given a whole integer, return its factorial.
 Given a string, return the first digit encoutered while parsing the string using split() and includes()
 
 ## Challenge 9 : Largest Number
-Given a digit, return the largest number of size equal to the digit entered as argument. For example, if the digit equals 2 then the returned largest number will be equal to 99. If the digit equals 5 then the returned largest number will be equal to 99999. Use 
+Given a digit, return the largest number of size equal to the digit entered as argument. For example, if the digit equals 2 then the returned largest number will be equal to 99. If the digit equals 5 then the returned largest number will be equal to 99999. Use concat() and parseInt().
+
+## Final Challenge; Challenge 10 : Max Multiple
+Given a divisor and a bound, find the largest integer N such that :
+- N is divisible by divisor.
+- N is less than or equal to bound.
+- N is greater than 0.
+
+For example, for divisor = 3 and bound = 10, the output should be maxMultiple(divisor, bound) = 9.
